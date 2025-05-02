@@ -1,0 +1,44 @@
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.exe
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.deps.json
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.runtimeconfig.json
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.csproj.AssemblyReference.cache
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfoInputs.cache
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfo.cs
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.csproj.CoreCompileInputs.cache
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\refint\TicTacToewithMinimax.dll
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.genruntimeconfig.cache
+C:\Users\fateh\source\repos\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\ref\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.exe
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.deps.json
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.runtimeconfig.json
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.csproj.AssemblyReference.cache
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfoInputs.cache
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfo.cs
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.csproj.CoreCompileInputs.cache
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\refint\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.genruntimeconfig.cache
+C:\Users\fateh\OneDrive\Masaüstü\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\ref\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.exe
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.deps.json
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.runtimeconfig.json
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\bin\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfoInputs.cache
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.AssemblyInfo.cs
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.csproj.CoreCompileInputs.cache
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\refint\TicTacToewithMinimax.dll
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.pdb
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\TicTacToewithMinimax.genruntimeconfig.cache
+C:\Users\fateh\OneDrive\Masaüstü\‎\uni\4cu kurs\AI\TicTacToewithMinimax\TicTacToewithMinimax\obj\Debug\net6.0\ref\TicTacToewithMinimax.dll

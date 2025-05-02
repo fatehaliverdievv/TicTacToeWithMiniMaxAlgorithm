@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7AXJ1T3KRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fateh\\OneDrive\\Masaüstü\\‎\\uni\\4cu kurs\\AI\\TicTacToewithMinimax\\TicTacToewithMinimax\\TicTacToewithMinimax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fateh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\fateh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\fateh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\fateh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
